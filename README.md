@@ -52,5 +52,7 @@ To manage the search terms:
 ## Screenshot
 ### Admin Panel 
 ![admin](https://img001.prntscr.com/file/img001/pnwhqZ0KRlOtDmzA8lwg0g.png) 
+### Widget
+![widget](https://img001.prntscr.com/file/img001/fp4Q_RX5SdWbu6WXpa7WGg.png)
 
 
