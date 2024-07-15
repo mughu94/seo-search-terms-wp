@@ -1,7 +1,7 @@
 # SEO Search Terms Tagging
 
 **Plugin Name:** SEO Search Terms Tagging  
-**Plugin URI:** https://mughu.biz.id
+**Plugin URI:** https://mughu.biz.id  
 **Description:** A plugin to tag incoming search terms for better SEO.  
 **Version:** 1.0  
 **Author:** Muhamad Ghufron  
