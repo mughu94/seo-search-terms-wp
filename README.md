@@ -1,4 +1,4 @@
-# SEO Search Terms Tagging
+# SEO Search Terms Tagging 2024
 
 **Plugin Name:** SEO Search Terms Tagging  
 **Plugin URI:** https://mughu.biz.id  
