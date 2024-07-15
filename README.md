@@ -49,3 +49,8 @@ To manage the search terms:
    - **Number of terms to show:** Set the limit on the number of terms to display.
    - **Order:** Choose between "Random" or "Top" (by count) for displaying search terms.
 
+## Screenshot
+### Admin Panel 
+![admin](https://img001.prntscr.com/file/img001/pnwhqZ0KRlOtDmzA8lwg0g.png) 
+
+
